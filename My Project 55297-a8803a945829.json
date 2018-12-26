@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "glass-crossing-225922",
+  "private_key_id": "a8803a9458291d5574522a1ce54cda702a9703a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVdyvUkMgHUzDy\n0xNuRonk8ECREAcdaPbZXpVOeBZyS7BINI9xVaZT4fvVZMLyPV35knj45QOfS7g/\n3VmmNELY6xO1Ncf3Nju1FQAE+7ufMLntT4ZIuQcWJ5mfkj3SAdDPghJ4mh9jdiSX\nE4vze0QAk+Ic3Vz+EU3K2/qf6q6zWCnM2Z5CM7FIzSJXcPebd3iD0sOm/qqx4mfc\nPxdRIA4J+BbsDfP/rzFm61oWOPmLhKz9j8X/wc44ECu46Rf8uWL7HTJB47PHTID2\nt+WpPNdSQmoifkjfDIVeFSksl3RZONALEx8Jtx7XfwGPDt66+qC36Jy1qwYvk7AA\ni43Xrg8LAgMBAAECggEAF3shZiN67VtYUg2n4IR/3KAU6iASOEj4hlaiI9yP04jB\n3l9xu+zI/AcqtYF89DqN4Msc5XwDlv00Skol92NeSxAovdEpqubbUIL72pB6RfuN\nKC6MPemkfupiOqxSgoxSlNDhCUUi2MUBJ2EuDt1rUIjz4Wr0NLpgjUT/X6HoD7Aa\ngClqpLhOBng/8sjC+rZJbgou4DFBdekNXQcXXR/szjyw5v2hPetzFnpyogeKasdq\n/oGT2d0iI6bEJPjyuAxZMGrtMglVvSDyawQgXmcfn0dPZQcZNXWpyVDtmQGN+tqb\nGDnTcCj+bsFPnewaD9TJd6A0x0KyXOuLmw+zXAN5cQKBgQD2qa/ctaS3e4ByTK5T\nru399h9o926fLdLse53kMNQa8nIe86ThEhhQf2L6Nw++SwZZsgfijJgyJDR9Mm4j\nR3G1pPZCJ1llAGYRKoTI+/Q9CA+nXujVEDFtq2c84/65hOs7Vo/bCRirfgAxVJkq\nxTDQtfthQ0lcdiBYm67VFJ3QeQKBgQDdi8gto+Qj/0odswXDy9Jgy9vgH5iCS3kV\nGjr8E4Cdd/1RFESPaSTH6DlSm+6oXcvIhSUnnZlT5BlWHJ5D078Fjfi3UpfztblR\nb9nuCCy5vQs2hLYmVp6buq32KHQeSBWLzDyubgyMtqZ3Vet+e5BzjqtGDE43W0c3\nxHueh4RiowKBgQCqoNE1lTWfc0B0UNUasFyTnGk3/Em6tUE+M3kSfDCNf38wKAy7\nYQAO10AJpIMweMeozn2j2uwBa4gfvv3vS6G+LKHpOz0coDz6zPXT7m6StXvWpNHd\naXk3yyT8Ox9fCDKM9qFGvLEjGGNbvJDDxGqzRd/h9WDPJCvV/8PeRIeyyQKBgGRP\n6GGR9bi+3OY5qwCOh0FAzNvcMoe8eKSvbcm5YuDp9Y8CqFBvATJq2Zmn9RXS8nRm\npP4dA9HSVA6Dgr2fYLy5HcaT5S16OODAzmJS3T10dWFIEdmmGsbUbfQpOPqFFQxp\ne4hXV+NWyGT8SFbKyAsqrC5ZYAj8kXCUzIxpO+4VAoGBAKWWk5wumdW1bv+CN8CW\nraKOry+Yqq0WPbpwOY9obgsizr8kdhjrUtn6NIkVDDT5BVLrpMS8Tv2d1kLaF64Q\n74jjeUZUtctJl9jw4MU0gi7swEqfJS7jrmFq8ceTGY+/657BjwENXt+iWtGUYQzU\nR747OrQ8S5Zq9+ieqw3d60Sx\n-----END PRIVATE KEY-----\n",
+  "client_email": "gyw-gcs@glass-crossing-225922.iam.gserviceaccount.com",
+  "client_id": "111011490125571620730",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gyw-gcs%40glass-crossing-225922.iam.gserviceaccount.com"
+}
